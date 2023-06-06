@@ -70,6 +70,7 @@ a:hover {
     display: flex;
     justify-content: space-around;
     margin-bottom: 5rem;
+    margin-left: 0;
 }
 
 .image-container img {
