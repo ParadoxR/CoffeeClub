@@ -24,7 +24,7 @@ header {
 
 header a {
     margin-right: 1rem;
-    color: black;
+    color: peru;
     font-weight: bold;
     margin-left:1rem;
 }
@@ -60,7 +60,7 @@ a:hover {
 
 #blurb a {
     text-decoration: underline;
-    color: peru;
+    color: black;
     font-weight: bold;
 }
 
