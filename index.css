@@ -155,6 +155,9 @@ a:hover {
     footer p {
         margin: 0;
     }
+    .image-container img {
+        width: 99%;
+    }
 }
 
 @media only screen and (max-width: 400px) {
