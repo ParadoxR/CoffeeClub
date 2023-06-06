@@ -156,7 +156,7 @@ a:hover {
         margin: 0;
     }
     .image-container img,
-    img {
+    #call-to-action img {
         width: 90%;
     }
 }
