@@ -12,6 +12,7 @@ body {
     font-family: "Roboto";
     background-color: peru;
     margin: auto;
+    max-width: 2000px;
 }
 
 /* Header */
